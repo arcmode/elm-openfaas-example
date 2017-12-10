@@ -1,0 +1,2 @@
+language: elm
+fprocess: node index.js

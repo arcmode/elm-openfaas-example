@@ -1,0 +1,9 @@
+provider:
+  name: faas
+  gateway: http://192.168.64.2:31112
+
+functions:
+  elm-openfaas-example:
+    lang: elm
+    handler: ./elm-openfaas-example
+    image: elm-openfaas-example

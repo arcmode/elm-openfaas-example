@@ -1,0 +1,2 @@
+language: elm-armhf
+fprocess: node index.js
